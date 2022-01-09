@@ -12,9 +12,6 @@ body {
   min-width: 450px;
   height: auto;
   border-radius: 1.5em;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
   padding: 0px;
   -webkit-box-shadow: 4px 4px 20px #c7d1eb;
           box-shadow: 4px 4px 20px #c7d1eb;
@@ -167,9 +164,6 @@ footer {
     max-width: 450px;
     height: auto;
     border-radius: 1em;
-    -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
     padding: 0px;
     -webkit-box-shadow: 4px 4px 20px #c7d1eb;
             box-shadow: 4px 4px 20px #c7d1eb;
