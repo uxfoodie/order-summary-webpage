@@ -56,12 +56,13 @@ I plan to take about 4 more lessons to hone my skills.
 ![Solution](images/desktop.png)
 ![Solution](images/mobile.png)
 
-Active button state (on hover)
+# Active button state (on hover)
+
 ![Solution](images/active.png)
 
 ### Useful resources
 
-- [w3-schools](https://www.w3schools.com) - This helped me align some content using the information on thier website. I really liked this site and will use it going forward.
+- [w3-schools](https://www.w3schools.com) - This helped me align some content using the information on their website. I really liked this site and will use it going forward.
 
 
 ## Author
