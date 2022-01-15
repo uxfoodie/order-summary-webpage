@@ -4,28 +4,40 @@ body {
   background-image: url("../images/pattern-background-desktop.svg");
   background-repeat: no-repeat;
   font-family: 'Red Hat Display', sans-serif;
+
 }
 
 .main-container {
-  background: white;
-  width: 30%;
-  min-width: 450px;
-  height: auto;
-  border-radius: 1.5em;
-  padding: 0px;
-  -webkit-box-shadow: 4px 4px 20px #c7d1eb;
-          box-shadow: 4px 4px 20px #c7d1eb;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  
   margin: auto;
+  width: 400px;
+
+  background-color: white;
+  -webkit-box-shadow: 4px 4px 20px #c7d1eb;
+  box-shadow: 4px 4px 20px #c7d1eb;
+
+  border-radius: 1em;
+
+  padding: 0px;
 }
 
 .main-container img {
   width: 100%;
-  border-radius: 24px 24px 0px 0px;
+  border-radius: 16px 16px 0px 0px;
 }
 
 .white-below {
   padding: 32px;
   text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 70%;
+  padding: 1em;
 }
 
 .white-below h2 {
@@ -97,7 +109,7 @@ body {
 }
 
 .plan img {
-  width: 3em;
+  width: 2em;
 }
 
 .plan ul {
@@ -160,9 +172,9 @@ footer {
 @media screen and (max-width: 700px) {
   .main-container {
     background: white;
-    min-width: 350px;
-    max-width: 450px;
-    height: auto;
+    min-width: 280px;
+    max-width: 300px;
+    height: 600px;
     border-radius: 1em;
     padding: 0px;
     -webkit-box-shadow: 4px 4px 20px #c7d1eb;
@@ -178,6 +190,7 @@ footer {
   }
   .main-container .description {
     width: 80%;
+    font-size: .8em;
   }
   .main-container .plan {
     width: 85%;
