@@ -29,13 +29,11 @@ Users should be able to:
 
 ### Screenshot
 
-![Solution](/order-summary-component-main/images/showcase2.png)
-![Solution](/order-summary-component-main/images/active-cta.png)
-
+![Solution](images/desktop.png)
 
 ### Links
 
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Live Site URL: [Live site URL](https://order-summary-webpage.netlify.app)
 
 ## My process
 
@@ -54,6 +52,10 @@ I learned how to align items and also make the webpage responsive.
 ### Continued development
 
 I plan to take about 4 more lessons to hone my skills.
+
+![Solution](images/desktop.png)
+![Solution](images/mobile.png)
+![Solution](images/active.png)
 
 ### Useful resources
 
